@@ -1,0 +1,1 @@
+/usr/bin/g++ --coverage -O0 -g -g CMakeFiles/example_test.dir/test_example.cpp.o CMakeFiles/example_test.dir/test_factorial.cpp.o CMakeFiles/example_test.dir/test_c_example.cpp.o -o example_test  ../src/libexample.a ../lib/libgtest_main.a ../lib/libgtest.a 

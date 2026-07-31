@@ -1,0 +1,3 @@
+/workspaces/tddExample/build-coverage/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/workspaces/tddExample/build-coverage/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/workspaces/tddExample/build-coverage/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

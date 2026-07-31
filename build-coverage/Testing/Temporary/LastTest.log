@@ -1,0 +1,219 @@
+Start testing: Jul 31 01:41 UTC
+----------------------------------------------------------
+1/8 Testing: AddTest.Basic
+1/8 Test: AddTest.Basic
+Command: "/workspaces/tddExample/build-coverage/tests/example_test" "--gtest_filter=AddTest.Basic" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/tddExample/build-coverage/tests
+"AddTest.Basic" start time: Jul 31 01:41 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/tddExample/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AddTest.Basic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AddTest
+[ RUN      ] AddTest.Basic
+[       OK ] AddTest.Basic (0 ms)
+[----------] 1 test from AddTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AddTest.Basic" end time: Jul 31 01:41 UTC
+"AddTest.Basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: FactorialTest.HandlesZeroAndOne
+2/8 Test: FactorialTest.HandlesZeroAndOne
+Command: "/workspaces/tddExample/build-coverage/tests/example_test" "--gtest_filter=FactorialTest.HandlesZeroAndOne" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/tddExample/build-coverage/tests
+"FactorialTest.HandlesZeroAndOne" start time: Jul 31 01:41 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/tddExample/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactorialTest.HandlesZeroAndOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactorialTest
+[ RUN      ] FactorialTest.HandlesZeroAndOne
+[       OK ] FactorialTest.HandlesZeroAndOne (0 ms)
+[----------] 1 test from FactorialTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactorialTest.HandlesZeroAndOne" end time: Jul 31 01:41 UTC
+"FactorialTest.HandlesZeroAndOne" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: FactorialTest.HandlesPositive
+3/8 Test: FactorialTest.HandlesPositive
+Command: "/workspaces/tddExample/build-coverage/tests/example_test" "--gtest_filter=FactorialTest.HandlesPositive" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/tddExample/build-coverage/tests
+"FactorialTest.HandlesPositive" start time: Jul 31 01:41 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/tddExample/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactorialTest.HandlesPositive
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactorialTest
+[ RUN      ] FactorialTest.HandlesPositive
+[       OK ] FactorialTest.HandlesPositive (0 ms)
+[----------] 1 test from FactorialTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactorialTest.HandlesPositive" end time: Jul 31 01:41 UTC
+"FactorialTest.HandlesPositive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: CFuncsTest.GcdPositive
+4/8 Test: CFuncsTest.GcdPositive
+Command: "/workspaces/tddExample/build-coverage/tests/example_test" "--gtest_filter=CFuncsTest.GcdPositive" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/tddExample/build-coverage/tests
+"CFuncsTest.GcdPositive" start time: Jul 31 01:41 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/tddExample/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CFuncsTest.GcdPositive
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CFuncsTest
+[ RUN      ] CFuncsTest.GcdPositive
+[       OK ] CFuncsTest.GcdPositive (0 ms)
+[----------] 1 test from CFuncsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CFuncsTest.GcdPositive" end time: Jul 31 01:41 UTC
+"CFuncsTest.GcdPositive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: CFuncsTest.GcdWithZeroAndNegative
+5/8 Test: CFuncsTest.GcdWithZeroAndNegative
+Command: "/workspaces/tddExample/build-coverage/tests/example_test" "--gtest_filter=CFuncsTest.GcdWithZeroAndNegative" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/tddExample/build-coverage/tests
+"CFuncsTest.GcdWithZeroAndNegative" start time: Jul 31 01:41 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/tddExample/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CFuncsTest.GcdWithZeroAndNegative
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CFuncsTest
+[ RUN      ] CFuncsTest.GcdWithZeroAndNegative
+[       OK ] CFuncsTest.GcdWithZeroAndNegative (0 ms)
+[----------] 1 test from CFuncsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CFuncsTest.GcdWithZeroAndNegative" end time: Jul 31 01:41 UTC
+"CFuncsTest.GcdWithZeroAndNegative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: FizzBuzz.testFizzBuzz
+6/8 Test: FizzBuzz.testFizzBuzz
+Command: "/workspaces/tddExample/build-coverage/tests/example_test" "--gtest_filter=FizzBuzz.testFizzBuzz" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/tddExample/build-coverage/tests
+"FizzBuzz.testFizzBuzz" start time: Jul 31 01:41 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/tddExample/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FizzBuzz.testFizzBuzz
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FizzBuzz
+[ RUN      ] FizzBuzz.testFizzBuzz
+[       OK ] FizzBuzz.testFizzBuzz (0 ms)
+[----------] 1 test from FizzBuzz (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FizzBuzz.testFizzBuzz" end time: Jul 31 01:41 UTC
+"FizzBuzz.testFizzBuzz" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: FizzBuzz.testBuzz
+7/8 Test: FizzBuzz.testBuzz
+Command: "/workspaces/tddExample/build-coverage/tests/example_test" "--gtest_filter=FizzBuzz.testBuzz" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/tddExample/build-coverage/tests
+"FizzBuzz.testBuzz" start time: Jul 31 01:41 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/tddExample/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FizzBuzz.testBuzz
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FizzBuzz
+[ RUN      ] FizzBuzz.testBuzz
+[       OK ] FizzBuzz.testBuzz (0 ms)
+[----------] 1 test from FizzBuzz (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FizzBuzz.testBuzz" end time: Jul 31 01:41 UTC
+"FizzBuzz.testBuzz" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: FizzBuzz.testFizzBuzzAndBuzz
+8/8 Test: FizzBuzz.testFizzBuzzAndBuzz
+Command: "/workspaces/tddExample/build-coverage/tests/example_test" "--gtest_filter=FizzBuzz.testFizzBuzzAndBuzz" "--gtest_also_run_disabled_tests"
+Directory: /workspaces/tddExample/build-coverage/tests
+"FizzBuzz.testFizzBuzzAndBuzz" start time: Jul 31 01:41 UTC
+Output:
+----------------------------------------------------------
+Running main() from /workspaces/tddExample/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FizzBuzz.testFizzBuzzAndBuzz
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FizzBuzz
+[ RUN      ] FizzBuzz.testFizzBuzzAndBuzz
+[       OK ] FizzBuzz.testFizzBuzzAndBuzz (0 ms)
+[----------] 1 test from FizzBuzz (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FizzBuzz.testFizzBuzzAndBuzz" end time: Jul 31 01:41 UTC
+"FizzBuzz.testFizzBuzzAndBuzz" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 31 01:41 UTC

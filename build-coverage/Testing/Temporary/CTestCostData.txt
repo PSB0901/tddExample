@@ -1,0 +1,9 @@
+AddTest.Basic 1 0.00829892
+FactorialTest.HandlesZeroAndOne 1 0.00797505
+FactorialTest.HandlesPositive 1 0.0115474
+CFuncsTest.GcdPositive 1 0.00838435
+CFuncsTest.GcdWithZeroAndNegative 1 0.00808456
+FizzBuzz.testFizzBuzz 1 0.0154379
+FizzBuzz.testBuzz 1 0.0160413
+FizzBuzz.testFizzBuzzAndBuzz 1 0.0174757
+---

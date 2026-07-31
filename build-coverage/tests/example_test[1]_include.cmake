@@ -1,0 +1,5 @@
+if(EXISTS "/workspaces/tddExample/build-coverage/tests/example_test[1]_tests.cmake")
+  include("/workspaces/tddExample/build-coverage/tests/example_test[1]_tests.cmake")
+else()
+  add_test(example_test_NOT_BUILT example_test_NOT_BUILT)
+endif()
